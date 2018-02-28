@@ -63,3 +63,28 @@ header ul li {
   margin: 0px 5px 5px 5px;
   border: 0px solid white;
 }
+
+footer {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  border-top: 1px solid #d1d1d1;
+  text-align: right;
+  width: 100%;
+  background-color: white;
+  margin-bottom: 0px;
+}
+
+footer ul li {
+  display: inline-block;
+  margin: 10px;
+}
+
+#footer-left {
+  float: left;
+}
+
+#footer-right {
+  float: right;
+  margin-right: 30px;
+}
