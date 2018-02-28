@@ -113,3 +113,20 @@ header a:hover {
   margin: 0px 5px 5px 5px;
   border: 1px solid #CAC9C9;
 }
+
+footer a:link {
+  text-decoration: none;
+  color: #787878;
+  list-style-type: none;
+  font-family: sans-serif;
+  font-size: .8em;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+.button:hover {
+  border: 1px solid #A6A6A6;
+  cursor: pointer;
+}
