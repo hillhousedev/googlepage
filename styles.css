@@ -42,3 +42,24 @@ header ul li {
   padding: 5px;
   margin: 0px 0px 5px 0px;
 }
+
+
+#search-buttons {
+  clear: both;
+  margin-top: 40px;
+}
+
+.button {
+  border-radius: 2px;
+  width: 140px;
+  height: 40px;
+  background-color: #f2f2f2;
+  color: #686363;
+  position: relative;
+  font-size: .80em;
+  font-family: Arial;
+  text-align: center;
+  font-weight: 600;
+  margin: 0px 5px 5px 5px;
+  border: 0px solid white;
+}
